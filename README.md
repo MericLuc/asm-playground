@@ -13,3 +13,5 @@ External ressources :
 - [Linux system call table for x86_64](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64)
 - [x86-64 Assembly Programming - Youtube series](https://www.youtube.com/watch?v=lUbPUWtmVUU)
 - [Modern x64 Assembly         - Youtube series](https://www.youtube.com/watch?v=rxsBghsrvpI)
+- [x64 cheatsheet](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf)
+- [x86 & amd64 instruction reference](https://www.felixcloutier.com/x86)
